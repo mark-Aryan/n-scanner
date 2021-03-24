@@ -5,4 +5,7 @@ A Network Scaner...... By Range ONLY but Fully Protected By Vulnes.....
 Requirments.txt And Then Try  This Tool
 
 # Use
+network_scanner.py -t [target ip/ip_range]
+
+
 
