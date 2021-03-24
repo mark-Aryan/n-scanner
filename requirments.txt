@@ -1,0 +1,9 @@
+#install scapy
+pip install scapy-python3
+
+#making directory and copying file
+sudo mkdir /usr/lib/python2.7/dist-packages/scapy
+cd /usr/lib/python3/dist-packages/
+cp -avr scapy/* /usr/lib/python2.7/dist-packages/scapy
+
+
